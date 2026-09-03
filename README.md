@@ -9,6 +9,8 @@
 
 Briefly describe the Telco Customer Churn dataset and the churn prediction task.
 
+The Telco Customer Churn dataset contains information on 7043 customers, including customer demographics, services, contract information, tenure, and charges. The prediction task is to use these customer features to predict whether a customer will churn.
+
 ## Assumption Checks
 
 | Model | Key Assumptions Checked | Evidence | Concern |
