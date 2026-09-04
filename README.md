@@ -28,3 +28,14 @@ The Telco Customer Churn dataset contains information on 7043 customers, includi
 | GAM |  |  |  |
 
 ## Recommendation
+
+Recommended model:
+
+Why this model:
+
+What the company can responsibly conclude:
+
+What the company should not conclude yet:
+
+One next analysis we would run:
+
